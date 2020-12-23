@@ -1,0 +1,2 @@
+org.springframework.boot.actuate.autoconfigure.web.ManagementContextConfiguration = \
+com.example.demo.CustomEndpointConfig
